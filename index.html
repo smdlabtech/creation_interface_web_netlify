@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Formulaire de saisies des Prospects</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="form-container">
+        <h1>Formulaire de saisies des Prospects</h1>
+        <form id="prospectForm">
+            <!-- Ligne 1 -->
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="numeroProspect">NUMERO DE PROSPECT :</label>
+                    <input type="text" id="numeroProspect" name="numeroProspect">
+                </div>
+                <div class="form-group">
+                    <label for="sourceProspect">SOURCE DE PROSPECT :</label>
+                    <input type="text" id="sourceProspect" name="sourceProspect">
+                </div>
+                <div class="form-group">
+                    <label for="datePremierContact">DATE DU PREMIER CONTACT :</label>
+                    <input type="date" id="datePremierContact" name="datePremierContact">
+                </div>
+            </div>
+            <!-- Ligne 2 -->
+            <div class="form-row">
+                <!-- Ajoutez ici les champs supplémentaires, par exemple : -->
+                <div class="form-group">
+                    <label for="nomEntreprise">NOM DE L'ENTREPRISE :</label>
+                    <input type="text" id="nomEntreprise" name="nomEntreprise">
+                </div>
+                <div class="form-group">
+                    <label for="nomProspect">NOM DU PROSPECT :</label>
+                    <input type="text" id="nomProspect" name="nomProspect">
+                </div>
+                <div class="form-group">
+                    <label for="prenomProspect">PRÉNOM :</label>
+                    <input type="text" id="prenomProspect" name="prenomProspect">
+                </div>
+            </div>
+            <!-- Plus de lignes et champs selon les besoins -->
+            <!-- Boutons -->
+            <div class="form-actions">
+                <button type="button" id="search">Rechercher</button>
+                <button type="submit" id="add">Ajouter</button>
+                <button type="button" id="update">Modifier</button>
+                <button type="button" id="delete">Supprimer</button>
+            </div>
+        </form>
+    </div>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
