@@ -7,11 +7,11 @@ Voici comment procéder :
 
 1. Créer un compte GitHub (si ce n'est pas déjà fait) sur github.com.
 2. Créer un nouveau dépôt :
-    - Cliquez sur votre profil en haut à droite et sélectionnez *"Your repositories"*.
-    - Cliquez sur *"New"* pour créer un nouveau dépôt.
+    - Cliquez sur votre profil en haut à droite et sélectionnez ***"Your repositories"***.
+    - Cliquez sur ***"New"*** pour créer un nouveau dépôt.
     - Donnez un nom à votre dépôt, ajoutez une description, choisissez si vous voulez que le dépôt soit public ou privé, et initialisez-le avec un README si vous le souhaitez.
     - Vous pouvez également ajouter un.gitignore file pour exclure les fichiers et dossiers spécifiques de votre dépôt (par exemple, node_modules/).
-    - Cliquez sur *"Create repository"*.
+    - Cliquez sur ***"Create repository"***.
 
 
 ### Étape 2 : Structuration de Votre Projet
