@@ -151,5 +151,10 @@ Connectez votre dépôt GitHub à Netlify pour le déploiement automatique.
 
 **Conclusion :**
 
-En suivant ces étapes, vous pouvez non seulement créer une interface efficace qui interagit avec Google Sheets, mais aussi gérer votre code de manière professionnelle via GitHub et le déployer facilement sur Netlify. 
-Si vous avez besoin d'aide sur des aspects spécifiques du code ou d'autres détails, n'hésitez pas à demander.
+En suivant ces étapes, vous pouvez non seulement créer une interface efficace qui interagit avec Google Sheets, mais aussi gérer votre code de manière professionnelle via GitHub et le déployer facilement sur [Netlify](https://app.netlify.com/).  
+
+Si vous avez besoin d'aide sur des aspects spécifiques du code ou d'autres détails, n'hésitez pas à demander [smdlabtech](https://github.com/smdlabtech).
+
+  
+---  
+> @smdlabtech 2024 - **smd labtech**
