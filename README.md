@@ -1,4 +1,4 @@
-## Création d'interface web et tester sur Netlify
+## 🌐 Création d'interface web et tester sur Netlify
 
 Etapes pour créer un dépôt GitHub pour votre projet d'interface qui interagit avec Google Sheets, ainsi que pour organiser et écrire le code nécessaire.   
 Voici comment procéder :  
@@ -87,7 +87,7 @@ Cette commande démarrera un serveur web sur le port 8000 par défaut.
 
 - **Accéder à votre application (sous gitbash winbdows)**  
 
-Ouvrez votre navigateur web et allez à l'adresse http://localhost:8000. Vous devriez voir la page d'accueil de votre application web. Si votre fichier HTML n'est pas nommé index.html, vous devrez spécifier le nom du fichier dans l'URL, par exemple http://localhost:8000/index.html.
+Ouvrez votre navigateur web et allez à l'adresse ➡️ http://localhost:8000. Vous devriez voir la page d'accueil de votre application web. Si votre fichier HTML n'est pas nommé index.html, vous devrez spécifier le nom du fichier dans l'URL, par exemple ➡️ http://localhost:8000/index.html.
 
 
 - **Tester votre application** 
@@ -151,7 +151,7 @@ Connectez votre dépôt GitHub à Netlify pour le déploiement automatique.
 
 **Conclusion :**
 
-En suivant ces étapes, vous pouvez non seulement créer une interface efficace qui interagit avec Google Sheets, mais aussi gérer votre code de manière professionnelle via GitHub et le déployer facilement sur [Netlify](https://app.netlify.com/).  
+En suivant ces étapes, vous pouvez non seulement créer une interface efficace qui interagit avec Google Sheets, mais aussi gérer votre code de manière professionnelle via GitHub et le déployer facilement sur ➡️ [Netlify](https://app.netlify.com/).  
 
 Si vous avez besoin d'aide sur des aspects spécifiques du code ou d'autres détails, n'hésitez pas à demander [smdlabtech](https://github.com/smdlabtech).
 
